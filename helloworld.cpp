@@ -1,7 +1,7 @@
-dsgsddsgsdg#include<iostrean>
+#include<iostrean>
 using namespace std;
 int main()
 {
-cout<<"Hello Github"
+cout<<"Hello World"
 return 0;
 }
